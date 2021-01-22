@@ -1,0 +1,1 @@
+pip freeze is a command that allows you to see what modules you have installed with the pip install command to this point.
